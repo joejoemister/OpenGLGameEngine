@@ -1,0 +1,8 @@
+﻿  MainGame.cpp
+c:\users\joseph\documents\visual studio 2015\projects\openglgame\openglgame\maingame.cpp(71): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\joseph\documents\visual studio 2015\projects\openglgame\openglgame\maingame.cpp(87): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+c:\users\joseph\documents\visual studio 2015\projects\openglgame\openglgame\maingame.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\joseph\documents\visual studio 2015\projects\openglgame\openglgame\maingame.cpp(140): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\joseph\documents\visual studio 2015\projects\openglgame\openglgame\maingame.cpp(143): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  OpenGLGame.vcxproj -> C:\Users\Joseph\documents\visual studio 2015\Projects\OpenGLGame\Debug\OpenGLGame.exe
+  OpenGLGame.vcxproj -> C:\Users\Joseph\documents\visual studio 2015\Projects\OpenGLGame\Debug\OpenGLGame.pdb (Partial PDB)
